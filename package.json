@@ -1,7 +1,7 @@
 {
-  "name": "strapi-provider-upload-do",
-  "version": "3.6.6",
-  "description": "Digital ocean spaces provider for Strapi upload plugin",
+  "name": "strapi-provider-upload-do-nohash",
+  "version": "1.0.0",
+  "description": "Digital ocean spaces provider for Strapi upload plugin - with possibility to not hash the files",
   "homepage": "http://strapi.io",
   "keywords": [
     "upload",
