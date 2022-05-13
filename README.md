@@ -16,13 +16,13 @@ This provider will upload to the space using the AWS S3 API.
 1. Install this package
 
 ```bash
-npm i strapi-provider-upload-do
+npm i strapi-provider-upload-digitalocean-nohash
 ```
 ```bash
-yarn add strapi-provider-upload-do
+yarn add strapi-provider-upload-digitalocean-nohash
 ```
 ```bash
-pnpm add strapi-provider-upload-do
+pnpm add strapi-provider-upload-digitalocean-nohash
 ```
 
 2. Create or update config in `./config/plugins.js` with content
