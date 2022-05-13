@@ -32,7 +32,7 @@ module.exports = ({env}) => ({
   // ...
   upload: {
     config: {
-      provider: "strapi-provider-upload-do", 
+      provider: "strapi-provider-upload-digitalocean-nohash", 
       includeHash: true, // rename files with MD5 hash
       providerOptions: {
         key: env('DO_SPACE_ACCESS_KEY'),
